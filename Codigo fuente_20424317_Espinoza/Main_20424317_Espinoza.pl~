@@ -1,0 +1,24 @@
+%Laboratorio 2 Prolog
+%Nombre: Leonardo Espinoza
+%Profesor: Miguel Truffa
+:-include(tdapixel_20424317_espinoza).
+:-include(tdaimage_20424317_espinoza).
+
+
+%Archivo main será utilizado como script de pruebas
+
+
+%RF:2
+%TDA CONSTRUCTOR.
+%Ejemplo 1
+pixrgb( 0, 0, 10, 10, 10, 10, P1), pixrgb( 0, 1, 20, 20, 20, 20, P2), pixrgb( 1, 0, 30, 30, 30, 30, P3), pixrgb( 1, 1, 40, 40, 40, 40, P4), image( 2, 2, [P1, P2, P3, P4], I).
+%Ejemplo 2:
+%RF:3
+%RF:4
+%RF:5
+%RF:6
+%RF:7
+%RF:8
+%RF:9
+%RF:10
+%RF:11
